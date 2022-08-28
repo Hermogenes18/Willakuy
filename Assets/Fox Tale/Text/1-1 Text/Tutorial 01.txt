@@ -1,0 +1,34 @@
+﻿*separe cada ator por espaço *cada linha é igual a menos 1 no inspector (31 = 30) *cada linha é igual a uma caixa de fala *o txt para ter acentos deve ser salvo como UTF-8 (txt editor do windows -> salvar como > Coidificacao UTF-8)
+
+Sapo  1:
+Soy el guardian de este hogar, nadie puede entrar
+
+Sapo A :
+Los viejos sabios llamados Amautas cuentan a los mas jovenes, 
+que los primeros emperadores Incas emergieron del Lago Titicaca
+
+Sapo B :
+Soy un Amauta, profesores de los jovenes,
+Estoy observando la naturaleza, 
+ultimamente los animales estan atacando a todos
+
+Sapo C :
+Estamos juntando hojas de coca porque nos ayuda a tener energia
+
+Sapo Bloqueio : 
+Antes de pasar habla con el Amauta y sus guardias
+
+Sapo Bloqueio 2 :
+Necesitamos tu ayuda, 
+los animales se han vuelto locos,
+debes seguir e investigar
+
+Sapo Club :
+El agua se esta contaminando, 
+debemos pedir perdon a los dioses
+
+Sapo Caverna :
+Evita caerte de las plataformas
+
+Sapo Trampolim :
+Salta sobre el trampolin
